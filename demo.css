@@ -3,3 +3,20 @@ h2 {
     font-weight: bold;
     color: red;
 }
+body {
+    background-color: cornsilk;
+}
+
+button {
+    border: 2px solid red;
+    border-radius: 5px;
+    background-color: transparent;
+    color: red;
+    cursor: pointer;
+}
+footer p {
+    position: absolute;
+    bottom: 0;
+    right: 40%;
+    color: red;
+}
